@@ -7,7 +7,7 @@ The following application was built to learn how to build a MERN (MongoDB, Expre
 - Look up all the available cuisines
 - Check the location of a selected restaurant
 
-![Picture of website](/snapshots/Sample.PNG)
+![Picture of website](/snapshots/Sample.png)
 
 ## Developing the application
 The MERN Stack application used in the project was written by me, following the same tutorial, in another project and can be found at the following link https://github.com/DavidTaapy/David-Learns-MERN-Stack!
