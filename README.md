@@ -18,6 +18,6 @@ The MERN Stack application used in the project was written by me, following the 
 
 ## Mongodb Realm Code
 
-The serverless Mongodb Realm application was made using the '3rd Parties Services' tab of Mongodb Realm! An HTTP endpoint was created for each of the 'GET', 'POST', 'DELETE' and 'PUT' requests and linked to the relevant functions, that can be found here [Relative Link]("realm")!
+The serverless Mongodb Realm application was made using the '3rd Parties Services' tab of Mongodb Realm! An HTTP endpoint was created for each of the 'GET', 'POST', 'DELETE' and 'PUT' requests and linked to the relevant functions, that can be found here [Relative Link](realm)!
 
 ![Picture of Mongodb Realm](/snapshots/Realm.png)
