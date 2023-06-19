@@ -1,7 +1,7 @@
 # David-Learns-MERN-Stack
 
 ## Description
-The following application was built to learn how to build a MERN (MongoDB, Express, React, Node) Stack application, without Express and Node by using MongoDB Realm, by following a tutorial by Beau Carnes published on FreeCodeCamp.Org, which can be found at the following link: https://www.youtube.com/watch?v=mrHNSanmqQ4&ab_channel=freeCodeCamp.org! The following application is a restaurant search and review application, and some of it's features include:
+The following application was built to learn how to transform a typical MERN (MongoDB, Express, React, Node) Stack application into being hosted on cloud using MongoDB Realm and without Express and Node, by following a tutorial by Beau Carnes published on FreeCodeCamp.Org, which can be found at the following link: https://www.youtube.com/watch?v=mrHNSanmqQ4&ab_channel=freeCodeCamp.org! The following application is a restaurant search and review application, and some of it's features include:
 - Searching for restaurants based on name, cuisine or zipcode
 - Add / Update / Delete reviews for specific restaurants
 - Look up all the available cuisines
@@ -14,7 +14,7 @@ The following application was built to learn how to build a MERN (MongoDB, Expre
 By using Mongodb Realm, we can actually host our backend on cloud and need use the functions and endpoints provided by Mongodb Realm to run the server! Doing so, we do not need our own server, for the application to run with data in our server!
 
 ## Developing the application
-The MERN Stack application used in the project was written by me, following the same tutorial, in another project and can be found at the following link https://github.com/DavidTaapy/David-Learns-MERN-Stack!
+The MERN Stack application used in the project was written by me, following the same tutorial, in another project and can be found at the following link https://github.com/DavidTaapy/David-Learns-MERN-Stack
 
 ## Mongodb Realm Code
 
